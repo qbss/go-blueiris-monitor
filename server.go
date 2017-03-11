@@ -12,7 +12,6 @@ import (
 
 
 
-
 type SessionResponse struct {
     Session   string      `json:"session"`
 }
